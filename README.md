@@ -11,13 +11,14 @@
 
 * **
 
-## step2：初始化项目(包括react + react-router路由) 
+## step2: 初始化项目(包括react + react-router路由) 
+[ba119fd085e2a8b23494c275e888e9c76192838d]
 
 * **
 
-## step1: 搭建空开发环境框架
+## step1: 搭建开发环境(Dev environment)
+[92e9714fde3ea8a04ef3edea8b0b9ae2af844ac5]
 
-### 二、搭建开发环境(Dev environment)
 * 1、Babel   //编译jsx
 * 2、Webpack //项目构建
 * 3、ESLint //代码lint检测
@@ -26,5 +27,5 @@
 * 6、npm Scripts //npm脚本——构建运行命令行
 
 ```bash
-本项目根据视频教程一步步搭建的开发环境框架，只install安装项目目前用到的npm包，相比上面的github源码要少一些暂时无用项
+step1：根据视频教程一步步搭建的开发环境框架，只install安装项目目前用到的npm包，相比上面的github源码要少一些暂时无用项
 ```
