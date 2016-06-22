@@ -11,6 +11,10 @@
 
 * **
 
+## step3: Redux Flow(Action、Store、Reducer、Container Component) 
+
+* **
+
 ## step2: 初始化项目(包括react + react-router路由) 
 [ba119fd085e2a8b23494c275e888e9c76192838d]
 
